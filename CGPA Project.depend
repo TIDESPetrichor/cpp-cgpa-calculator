@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1794141977 source:c:\users\user\documents\mycpp\cgpa project\cgpa.cpp
+	"cgpa.h"
+	<cctype>
+
+1794141950 c:\users\user\documents\mycpp\cgpa project\cgpa.h
+	<string>
+
+1794147335 source:c:\users\user\documents\mycpp\cgpa project\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<iomanip>
+	"cgpa.h"
+	"storage.h"
+	"report.h"
+	"utils.h"
+	"menu.h"
+
+1793580800 c:\users\user\documents\mycpp\cgpa project\storage.h
+	<string>
+
+1793580848 c:\users\user\documents\mycpp\cgpa project\report.h
+	<string>
+
+1793580747 c:\users\user\documents\mycpp\cgpa project\utils.h
+	<string>
+
+1794142076 source:c:\users\user\documents\mycpp\cgpa project\report.cpp
+	"report.h"
+	"cgpa.h"
+	"utils.h"
+	<iostream>
+	<iomanip>
+
+1794142064 source:c:\users\user\documents\mycpp\cgpa project\storage.cpp
+	"storage.h"
+	"cgpa.h"
+	<fstream>
+	<sstream>
+	<iomanip>
+
+1793580800 source:c:\users\user\documents\mycpp\cgpa project\utils.cpp
+	"utils.h"
+	<iostream>
+	<sstream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<cctype>
+
+1794144777 c:\users\user\documents\mycpp\cgpa project\menu.h
+	<string>
+	"cgpa.h"
+
+1794146567 source:c:\users\user\documents\mycpp\cgpa project\menu.cpp
+	"menu.h"
+	"utils.h"
+	<windows.h>
+	<iostream>
+	<iomanip>
+	<sstream>
+	<string>
+
